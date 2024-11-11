@@ -11,11 +11,11 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=halfirzzha&style=for-the-badge&color=blue" alt="Profile views"/>
+  <a href="https://linkedin.com/in/Michael Andrea Aquino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/mianaqu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mianaqu&style=for-the-badge&color=blue" alt="Profile views"/>
 <a href="https://gitlab.com/halfirzzha"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="https://github.com/halfirzzha" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Micanaqu" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
   
 </div>
 
@@ -83,7 +83,7 @@
 <h3 align="center">🎮 Contribution Snake</h3>
 
 <div align="center">
-  <a href="https://github.com/halfirzzha">
+  <a href="https://github.com/Micanaqu">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
   </a>
 </div>
