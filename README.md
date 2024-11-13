@@ -32,7 +32,7 @@
 - 👯 I'm looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **PHP, Laravel, Vue.js, MySQL**
 - ⚡ Fun fact: **I turn caffeine into code**
-- 📫 How to reach me: **halfirzzha@gmail.com**
+- 📫 How to reach me: **michaelandrea060@gmail.com**
 
 </div>
 
