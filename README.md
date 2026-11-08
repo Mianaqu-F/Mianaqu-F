@@ -1,5 +1,3 @@
-<?php
-
 namespace Mianaqu;
 
 final class Profile
